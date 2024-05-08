@@ -17,6 +17,7 @@ The fun and easy project "Guess the Number" is a short Java project that allows 
 5-The game also limits the number of attempts.
 
 
+
 **About Task2**
 
 I have succesfully completed ATM interface project using java. In this project we can perform many operations like-
@@ -34,6 +35,7 @@ I have succesfully completed ATM interface project using java. In this project w
 6-Transfer
 
 7-Quit
+
 
 
 
