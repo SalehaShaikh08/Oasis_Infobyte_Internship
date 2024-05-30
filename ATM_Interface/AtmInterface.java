@@ -232,7 +232,5 @@ public class AtmInterface {
             System.exit(0);
         }
 
-
-
     }
 }	

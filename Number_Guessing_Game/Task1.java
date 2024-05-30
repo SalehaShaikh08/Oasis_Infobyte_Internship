@@ -9,14 +9,13 @@ public class Task1 {
         generaterandom();
     }
 
-
     public static void generaterandom(){
         Random rand = new Random();
-        int randomnumber = rand.nextInt(1000) + 1;
+        int randomnumber = rand.nextInt(10) + 1;
         System.out.println(" ");
-        System.out.println("Random number: " + randomnumber);
+        //System.out.println("Random number: " + randomnumber);
 
-        System.out.println("Enter Your number(1-1000):");
+        System.out.println("Enter Your number(1-10):");
         Scanner n = new Scanner(System.in);
         int count = 0;
        while(true){
