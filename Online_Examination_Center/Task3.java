@@ -1,4 +1,4 @@
-
+//Online Examination Center
 
 import java.util.*;
 
@@ -10,7 +10,7 @@ public class Task3 {
         int id=0;
         Scanner sc=new Scanner(System.in);
 
-        System.out.print("Enter user name:");
+        System.out.print("\nEnter user name:");
         name=sc.next();
         System.out.print("Enter roll no:");
         id=sc.nextInt();
@@ -70,11 +70,11 @@ public class Task3 {
                         {
                             ++count;
                         }
-                        System.out.println("Q.4.Technical Name of Core Java is knon as:");
+                        System.out.println("Q.4.Technical Name of Core Java is knwon as:");
                         System.out.println("1.JSE\n2.JEE\n3.J2SE\n4.J2EE");
                         System.out.print("Enter answer:");
                         choice=sc.nextInt();
-                        if(choice==1)
+                        if(choice==3)
                         {
                             ++count;
                         }
